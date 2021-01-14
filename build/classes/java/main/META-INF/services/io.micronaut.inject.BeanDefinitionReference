@@ -1,0 +1,4 @@
+example.$BitTableWriteDefinitionClass
+example.$PetServiceDefinitionClass
+example.$HTTPClientBuilderDefinitionClass
+example.$PetControllerDefinitionClass
